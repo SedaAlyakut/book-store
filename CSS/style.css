@@ -1,0 +1,154 @@
+body{
+    background-color: aliceblue;
+}
+
+header{
+    background-color: cadetblue;
+    height: 150px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    right: 0%;
+    float: left;
+
+}
+
+h1{
+    color: aliceblue;
+}
+
+.kampanya-alanı{
+   background-color: rgba(95, 158, 160, 0.436);
+   height: 450px;
+   width: 100%;
+   left: 0px;
+   right: 0%;
+   float: left;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+
+.kampanya-alanı .kampanyalar{
+   background-color: rgba(255, 255, 255, 0.375);
+   height: 310px;
+   width: 100%;
+   left: 10px;
+   right: 0%;
+   float: left;
+}
+.kampanya-alanı .kampanyalar .alan1{
+   
+   float: left;
+   padding-left: 140px;
+}
+.menu{
+    background-color: rgba(95, 158, 160, 0.323);
+    padding-right: 0px;
+    padding-left: 0px;
+    height: 150px;
+    padding-top: 0px;
+    margin-top: 0px;
+    width: 100%;
+    float: left;
+ }
+ .menu .nav-menu{
+    margin-top: 55px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+
+ }
+ .menu .nav-menu a{
+    padding-left: 50px;
+    color: aliceblue;
+    font-family: fantasy;
+
+ }
+
+ .listeleme-alanı{
+    background-color: rgba(255, 255, 255, 0);
+    height: 400px;
+    width: 100%;
+    left: 0px;
+    right: 0%;
+    float: left;
+    margin-top: 50px;
+    margin-bottom: 50px;
+ }
+
+ .listeleme-alanı .yeni-çıkanlar{
+    background-color: rgba(255, 255, 255, 0.375);
+    height: 150px;
+    width: 100%;
+    left: 0px;
+    right: 0%;
+    float: left;
+ }
+ .listeleme-alanı .yeni-çıkanlar .alan1{
+    left: 20px;
+    right: 20%;
+    float: left;
+    padding-left: 30px;
+ }
+ .listeleme-alanı .çok-satanlar{
+    background-color: rgba(255, 255, 255, 0.375);
+    height: 150px;
+    width: 100%;
+    left: 0px;
+    right: 0%;
+    float: left;
+ }
+ .listeleme-alanı .çok-satanlar .alan1{
+    left: 20px;
+    right: 20%;
+    float: left;
+    padding-left: 30px;
+ }
+
+ .listeleme-alanı .türler{
+   width: 500px;
+   height: 360px;
+   padding-top: 20px;
+   background-color: rgba(95, 158, 160, 0.692);
+ }
+ .listeleme-alanı .türler a{
+  font-size: large;
+  color: aliceblue;
+  font-family: fantasy; 
+  padding: 40px;
+
+ }
+
+ footer{
+    background-color: cadetblue;
+    height: 150px;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    right: 0%;
+    float: left;
+    position: relative;
+ }
+
+ footer .footer-nav{
+    background-color: rgba(95, 158, 160, 0.323);
+    padding-right: 0px;
+    padding-left: 0px;
+    height: 150px;
+    padding-top: 0px;
+    margin-top: 0px;
+    width: 100%;
+    float: left;
+ }
+ footer .footer-nav .nav-menu2{
+    margin-top: 55px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ footer .footer-nav .nav-menu2 a{
+    color: aliceblue;
+    font-family: fantasy; 
+    padding-left: 50px;
+
+
+ }
+ 
